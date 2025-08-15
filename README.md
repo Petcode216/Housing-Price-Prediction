@@ -36,13 +36,22 @@ Contains features such as:
 
 ## Project Structure
 housing_price/
+
 │
+
 ├── End-to-End-project.ipynb # Full ML pipeline in Jupyter Notebook
+
 ├── datasets/
+
 │ └── housing/ # Housing dataset files
+
 ├── models/ # Trained models (ignored in GitHub)
+
 ├── README.md # Project description
+
 └── .gitignore # Git ignore settings
-> **Note:** The `models/` folder is excluded from GitHub due to large file sizes. You can download model weights from [Google Drive / link] and place them in `models/` to use pre-trained models.
+
+> **Note:** The `models/` folder is excluded from GitHub due to large file sizes.
 
 ---
+
